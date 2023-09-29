@@ -1,5 +1,6 @@
 FastAPI   
-- - - Документация  
+- - -
+Документация  
 https://runebook.dev/ru/docs/fastapi   
 https://runebook.dev/ru/docs/fastapi/-index-   
 
@@ -7,7 +8,8 @@ https://runebook.dev/ru/docs/fastapi/-index-
 
 Руководство по веб-фреймворку FastAPI https://metanit.com/python/fastapi   
 
-- - - GitHub  
+- - -
+GitHub  
 https://github.com/topics/fastapi   
 https://github.com/tiangolo/full-stack-fastapi-postgresql Full stack, modern web application generator        
 Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more             
