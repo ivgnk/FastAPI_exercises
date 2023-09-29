@@ -9,7 +9,7 @@ https://runebook.dev/ru/docs/fastapi/-index-
 Руководство по веб-фреймворку FastAPI https://metanit.com/python/fastapi   
 
 - - -
-GitHub  
+GitHub    
 https://github.com/topics/fastapi   
 https://github.com/tiangolo/full-stack-fastapi-postgresql Full stack, modern web application generator        
 Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more             
@@ -25,9 +25,11 @@ https://github.com/mjhea0/awesome-fastapi  list of awesome things related to Fas
 https://github.com/zhanymkanov/fastapi-best-practices FastAPI Best Practices and Conventions we used at our startup         
 
 
-- - - Статьи            
+- - -
+Статьи             
 Знакомство с FastAPI https://pythonru.com/biblioteki/znakomstvo-s-fastapi             
 2022 Пишем FastAPI с нуля на python https://habr.com/ru/articles/708678            
 
-- - - Видео
+- - -
+Видео              
 https://www.youtube.com/results?search_query=fastapi             
