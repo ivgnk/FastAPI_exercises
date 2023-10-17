@@ -1,1 +1,1 @@
-
+C:\Python\Python311\Scripts\uvicorn.exe api:app --reload
