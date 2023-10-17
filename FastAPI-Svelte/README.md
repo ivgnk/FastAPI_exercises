@@ -1,1 +1,1 @@
-
+Application FastAPI +Svelte
