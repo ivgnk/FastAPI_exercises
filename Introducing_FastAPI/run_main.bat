@@ -1,0 +1,1 @@
+C:\Python\Python311\Scripts\uvicorn.exe main:app --reload

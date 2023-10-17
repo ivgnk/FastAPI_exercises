@@ -1,0 +1,1 @@
+C:\Python\Python311\Scripts\uvicorn.exe FA_002_path_param:app --reload
